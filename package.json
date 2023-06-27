@@ -36,3 +36,18 @@
     ]
   }
 }
+{
+  "name": "menu-suspenso",
+  "version": "1.0.0",
+  "description": "A test to create a suspense menu",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akoruu Dev",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-router-dom": "^6.13.0"
+  }
+}

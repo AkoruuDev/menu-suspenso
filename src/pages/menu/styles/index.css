@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.button {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: azure;
+}
+
+.selected {
+    background-color: rgb(80, 255, 255);
+    /* Adicione estilos para o botão selecionado */
+}
+
+.menu-item-line {
+    background-color: rgb(80, 255, 255);
+    /* Estilos para a linha que conecta as divs */
+}
